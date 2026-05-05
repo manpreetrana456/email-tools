@@ -22,3 +22,4 @@ document.getElementById('save-trigger').onclick = function () {
             a.click();
 
             alert('Done! Please use the downloaded "final-emailer.html" file for your email.');
+}
